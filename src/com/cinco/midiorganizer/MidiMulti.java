@@ -66,7 +66,7 @@ public class MidiMulti {
             }
         }
         
-        return new ArrayList<String>() {};
+        return devices;
     }
     
     //tried to write my own class. I thought the send method handles an MidiEvents sent to it
